@@ -1,0 +1,17 @@
+body {
+    font-family: "Times New Roman", Times, serif;
+    background-color: antiquewhite;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+h1, h2 {
+    text-decoration-line: underline;
+}
+
+a {
+    color: deeppink;
+}
